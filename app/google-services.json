@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065983629559",
+    "firebase_url": "https://weco-appv2.firebaseio.com",
+    "project_id": "weco-appv2",
+    "storage_bucket": "weco-appv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065983629559:android:f935d05a03fba909",
+        "android_client_info": {
+          "package_name": "com.example.wecoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065983629559-ltmefv9clj9r5mm7pomfs8t72vt09pjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgGuoteCFWAUze1vbZqk6uZCx1TLonMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065983629559-ltmefv9clj9r5mm7pomfs8t72vt09pjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
